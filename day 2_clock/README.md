@@ -1,4 +1,4 @@
-30 DAYS VANİLLA JS CODİNG CHALLENGE #1
+30 DAYS VANİLLA JS CODİNG CHALLENGE #2
 
 You can view the project here [Click Me](https://smy2js30.netlify.app)
 
